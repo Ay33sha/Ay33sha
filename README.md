@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ay33sha
-- 👀 I’m interested in frontend, UI/UX design, Data analytics and cloud computing.
-- 🌱 I’m currently learning web development (HTML, CSS and JavaScript), Data analytics using Excel, UI/UX design and the the basics of cloud computing.
+- 👀 I’m interested in Software engineering, Data analytics and cloud computing.
+- 🌱 I’m currently learning software engineering at alx, Data analytics using Excel and the the basics of cloud computing.
 - 💞️ I’m looking to collaborate on internships and job opportunities
 - 📫 How to reach me on my email nasircutieeesha@gmail.com
 
